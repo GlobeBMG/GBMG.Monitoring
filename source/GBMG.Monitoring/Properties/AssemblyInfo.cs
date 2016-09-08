@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GBMG.Monitoring")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("GBMG monitoring and telemetry abstraction")]
+[assembly: AssemblyDescription("A generic interface for sending custom metrics and telemetry to the configured monitoring provider")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Globe Business Media Group")]
 [assembly: AssemblyProduct("GBMG.Monitoring")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
